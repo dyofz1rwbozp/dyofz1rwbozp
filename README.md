@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NyanB3&label=sean+.+಄&style=flat-square&color=4b5f52" width="120">
+  <img src="https://komarev.com/ghpvc/?username=face2facewedxnce&label=sean+.+಄&style=flat-square&color=4b5f52" width="120">
 </p>
 
 -----
